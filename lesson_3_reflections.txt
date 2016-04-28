@@ -3,4 +3,6 @@ When I work in team.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Becouse it's my temp of working.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-Fork is clone on GitHyb. Clone is copy repository. Branche is branch repository. 
+Fork is clone on GitHyb. Clone is a copy repository. Branche is branch repository. 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps to find bugs.
