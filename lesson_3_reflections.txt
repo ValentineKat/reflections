@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork is clone on GitHyb. Clone is a copy repository. Branche is branch repository. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps to find bugs.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It wouldn't be easier it woul be harder because Git or GitHub is instrument for collaborating.
